@@ -1,0 +1,74 @@
+body{
+    background-image: url(background.webp);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: fantasy;
+    text-align: center;
+    
+    
+}
+
+        
+        
+        
+        button:hover{
+            background-color: gray;
+            border-radius: 15px;
+            width: 100px;
+            height: 50px;
+            font-family: serif, Times;
+            font-size: 20px;
+            border: 2px, #000000;
+        
+
+        }
+
+        button {
+            border-radius: 15px;
+            background: whitesmoke;
+            width: 100px;
+            height: 50px;
+            font-family: serif, Times;
+            font-size: 20px;
+            border: 2px, #ff0000;
+
+        }
+        
+        #resultado{
+            font-size: 25px;
+        }
+
+        input {
+            border-radius: 15px;
+            
+            width: 150px;
+            height: 30px;
+            font-family: serif, Times;
+            font-size: 15px;
+        }
+        
+        a:link {
+         color: whitesmoke;
+        }
+
+
+        a:visited {
+         color: #326e2e;
+        }
+
+
+        a:hover {
+         color: #fc0000;
+        }
+
+
+        a:active {
+         color: whitesmoke;
+        }
+       
+    h1{color: white;}
+    h2{color: rgb(255, 255, 255);}
+    h3{color: rgb(0, 0, 0);}
+    h4{color: white;}
+    h5{color: white;}
+    text{background-color: white;}
